@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="CS143-Project-2/src/java"/>
+	<classpathentry kind="src" path="CS143-Project-2/test"/>
+	<classpathentry kind="lib" path="CS143-Project-2/lib/ant-contrib-1.0b3.jar"/>
+	<classpathentry kind="lib" path="CS143-Project-2/lib/jline-0.9.94.jar"/>
+	<classpathentry kind="lib" path="CS143-Project-2/lib/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="CS143-Project-2/lib/zql.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="CS143-Project-2/bin/test"/>
+</classpath>
